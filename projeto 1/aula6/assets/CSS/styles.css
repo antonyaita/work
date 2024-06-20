@@ -1,0 +1,17 @@
+*{
+    list-style: none;
+    font-family: sans-serif;
+}
+
+div header{
+    background-color: rgba(0, 0, 0, 0.907);
+}
+
+div header img{
+    width: 120px;
+    padding: 10px 5px 10.5px 40px;
+}
+
+div{
+    background-repeat: repeat;
+}
