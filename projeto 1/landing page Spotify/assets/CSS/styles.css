@@ -1,17 +1,27 @@
 *{
     list-style: none;
     font-family: sans-serif;
+    background-color: purple ;
+    background-image: url(../images/capa.png);
+    list-style-image: none;
+    
 }
 
 div header{
-    background-image: url(ruido.png);
+    background-color: rgba(71, 26, 65, 0.584);
+    background-image: url(../images/ruido.png);
+    background-image: url(../images/capa.png) ;
+    
 }
 
 div header img{
+    background-color: rgba(71, 26, 65, 0.584);
     width: 120px;
     padding: 10px 5px 10.5px 40px;
 }
 
-div{
-    background-repeat: repeat;
+div section h1{
+    display: inline;
+    font-weight:normal;
+
 }
