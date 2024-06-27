@@ -6,13 +6,24 @@
     height: 150px;
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
 }
 
 #menuOpcoes{
-    inherits: none;
     list-style: none;
 }
 
 #menuOpcoes li{
     display: inline;
+    width: 50px;
+    height: 50px;
+    border: 1px dashed black;
+    padding: 40px;
+    margin-right: 20px;    
+}
+
+#menuNavegacao{
+    float: right;
+    margin: 25px 0PX;
+    padding: 2px 0px;
 }
